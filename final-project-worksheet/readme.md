@@ -8,20 +8,18 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Sep 25th| Project Description | Incomplete
-|Sep 25th| Wireframes / Priority Matrix / Functional Components | Incomplete
-|Sep 26th| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Sep 27th| Pseudocode | Incomplete
-|Sep 28th| Initial JS  | Incomplete
-|Sep 29th| Bug Fixes | Incomplete
-|Sep 30th| Present | Incomplete
+|October 27th| Project Description | Complete
+|November 3rd| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|November 10th| Basic JavaScript Functionality| Incomplete
+|November 17th| Minimal Viable Product | Incomplete
+|December 1st| Present | Incomplete
 
 
 ## Project Description
 
 When students first learn about discrete mathematics, they are usually presented with Hilbert's paradox of the Grand Hotel. This is about a hotel that has infinitely many rooms available. So there are infinitely many guests that come..all that is needed is to move everyone down one room to fit the new guest. Similarly with buses carrying infinitely many guests, all that is needed is to move infinitely many guest down a room, and since we have infinitely many rooms we can do this. But the paradox reveals that this is the lowest level of infinity there is, namely "countably infinite sets". This means that we can count or "track" the infinite guests with the infinite rooms. There exists a correspondence. Now, the concept of a hierarchy of infinite sets is what looses most people. How can sets have larger infinites than others? Georg Cantor, a great mathematician born in the 1800s, proved that this hierarchy exists and coined the cardinality of infinite sets to be aleph-not. My project will be an interactive app that will offer a visual presentation of this concept. But instead of hilbert's hotel, since I want to show how all common numbers are expressed in terms of their infinite cardinality, (this includes; natural numbers, rational numbers, integers, real numbers, imaginary numbers and complex numbers). There will be a space like theme with different colored/sized star systems that will represent different number sets. When a user clicks on/enters in a specific number from any of the groups mentioned above there will be a window that opens up and gives a blurb about that particular group of numbers (Possible API reference) and what level of infinity they have while simultaneously the corresponding group of stars will "emit" light and come forward from the hazy space background. 
 
-http://numbersapi.com/#random/math - this is a similar idea and a potential API to use.
+http://numbersapi.com/#random/math - a potential API to use.
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
